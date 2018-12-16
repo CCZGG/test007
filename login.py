@@ -4,6 +4,3 @@ num3 =3
 num4 = 4
 num8 = 8
 
-num9 = 9
-
-num0 =0
